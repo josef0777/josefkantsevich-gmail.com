@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('form.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+
+.login100 {
+  width: 450px;
+  height: 490px;
+  background: #fff;
+  overflow: hidden;
+  margin: 50px auto 0 auto;
+}
+
+
+
+.input-style {
+    width: 340px;
+    padding: 0 0 0 10px;
+    height: 60px;
+    margin: 55px 0 20px 50px;
+    border: none;
+    background-color: #e6e6e6;
+    border-radius: 3px;
+    font-family: Raleway-SemiBold;
+    font-size: 22px;
+}
+
+.input_style {
+  width: 340px;
+  padding: 0 0 0 10px;
+  height: 60px;
+  margin: 0 0 10px 50px;
+  border: none;
+  background-color: #e6e6e6;
+  border-radius: 3px;
+  font-family: Raleway-SemiBold;
+  font-size: 22px;
+}
+
+.login-title {
+     width: 100%;
+    float: right;
+    text-align: center;
+    margin-top: 55px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.btn {
+    width: 350px;
+    height: 60px;
+    margin: 71px 10px 10px 46px;
+    padding: 0 0 0 0px;
+    font-size: 19px;
+    background: #d33f8d;
+    color: #fff;
+    border-radius: 3px;
+    border: none;
+    font-family: Raleway-Bold;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.btn:hover {
+  background: #000000;
+  transition: all 0.8s;
+}
+
+ 
+.access {
+  width: 300px;
+  margin-top: 83px;
+  margin-left: 60px;
+  border: solid;
+}
+
+.nav {
+  width: 280px;
+}
+.label-size {
+  float: left;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.input-size {
+  width: 280px;
+  padding: 8px;
+  float: left;
+  font-size: 20px;
+}
+
+.legend {
+  font-size: 21px;
+  font-family: "Times New Roman, arial, font-size";
+  color: #fff;
+}
+
+
+#column {
+  position: absolute;
+  width: 655px;
+  height: 500px;
+  margin: 0;
+  padding: 0;
+  right: 132px;
+  top: 90px;
+}
+
+text {
+  font-size: 14px;
+}
+
+.anychart-credits {
+  display: none!important;
+}
+
+tspan {
+  font-size: 15px;
+  text-align: center;
+}
+
+.logout {
+  width: 110px;
+  height: 40px;
+  font-size: 19px;
+  float: right;
+  margin-top: 595px;
+  margin-right: 0;
+  background: black;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
+
